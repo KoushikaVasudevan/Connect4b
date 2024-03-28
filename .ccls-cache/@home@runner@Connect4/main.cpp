@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Just
+
 const int rows = 6, cols = 7;
 
 class GameManager {
